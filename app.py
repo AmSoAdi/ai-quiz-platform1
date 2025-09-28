@@ -34,8 +34,8 @@ def generate_quiz(topic, num_qs=3):
 # Pages
 # ------------------------------
 def home():
-    st.title("AI-Powered Quiz Platform 🎓 (Prototype)")
-    st.subheader("Fast • Simple • No Heavy Models 🚀")
+    st.title("AI-Powered Quiz Platform 🎓")
+    st.subheader("Personalized • Adaptive • Smart Learning")
     st.markdown("""
     Welcome to the demo!  
 
