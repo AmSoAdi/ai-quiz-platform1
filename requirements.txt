@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 streamlit==1.38.0
 transformers==4.44.2
 torch>=2.2.0
 sentencepiece
-=======
 streamlit==1.38.0
 transformers==4.44.2
 torch==2.1.0
 sentencepiece==0.1.99
 tokenizers==0.19.1
->>>>>>> 13c231263d94dcd0fb5ec4dd961f16583aa62e97
+
