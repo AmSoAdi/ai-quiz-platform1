@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+[server]
+headless = true
+port = 7860
+enableCORS = false
+=======
+[server]
+headless = true
+port = 7860
+enableCORS = false
+>>>>>>> 13c231263d94dcd0fb5ec4dd961f16583aa62e97
